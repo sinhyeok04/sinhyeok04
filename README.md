@@ -10,7 +10,6 @@
   
   ## 👀 About Me
   #### :raising_hand: Hello, I’m Sinhyeok Kwon, a Game and Backend Developer..<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
   #### :mortar_board: Department of Software Convergence, KyungHee University(KHU)
   <br/>
   <br/>
@@ -31,7 +30,7 @@
   <!--Unreal Engine-->
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"/>
   <!--Unity-->
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=Unity&logoColor=white"/>
 
   ### Tool
   <!--Visual Studio-->
