@@ -49,10 +49,10 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinhyeok04)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinhyeok04&show_icons=true&theme=radical&hide_border=true" alt="Sinhyeok's GitHub stats" />
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinhyeok04)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhyeok04&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 <!--
