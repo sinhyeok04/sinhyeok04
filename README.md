@@ -18,20 +18,20 @@
   ## 🧱 Tech Stack
   ### Language
   <!--C++-->
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>
   <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   
   ### Library
   <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
   <br/>
   
   ### Framework
   <!--Unreal Engine-->
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white"/>
   <!--Unity-->
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white"/>
 
   ### Tool
   <!--Visual Studio-->
